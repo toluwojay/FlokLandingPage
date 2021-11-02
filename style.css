@@ -1,0 +1,78 @@
+.navbar{
+    
+    height: 65px;
+    position: relative;
+    top: 70px;
+   
+   
+}
+
+.logo-image{
+    width: 80px;
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+body {
+    color: #fff;
+    background: #000000;
+    background-image:url('https://res.cloudinary.com/cloudwojay/image/upload/v1635877644/Landing-page-background_x264_e2nhxo.gif'); background-repeat:repeat; 
+    height: 100vh;
+    padding:0;
+    margin:0;
+background-size: 100%;
+}
+
+
+main{
+    position: relative;
+    top: 161px;
+}
+
+.headtext{
+    position: relative;
+    left: auto;
+    right: auto;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'CustomFont', Airbnb Cereal App, ExtraBold;
+    font-kerning: auto;
+}
+
+.paragraph{
+    
+    padding: 0px;
+    margin-top: 0px;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'CustomFont', Visby Round CF, medium;
+    letter-spacing: 0.8px;
+    line-height: 20px;
+    
+
+}
+
+.creator{
+    color: #F9C900; font-style: normal; 
+}
+
+.waitlist{
+    font-size: 14px;
+    padding-top:90px;
+    text-align: center;
+    font-family: 'CustomFont', Visby Round CF, medium;
+    letter-spacing: 0.8px;
+}
+
+a{
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+    text-decoration-color:#F9C900;
+}
