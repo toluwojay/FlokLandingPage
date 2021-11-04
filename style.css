@@ -43,6 +43,7 @@ main{
     text-align: center;
     font-family: 'CustomFont', Airbnb Cereal App, ExtraBold;
     font-kerning: auto;
+  
 }
 
 .paragraph{
@@ -90,7 +91,7 @@ input{
 
 button{
     height: 40px;
-    width: 80px;
+    width: auto;
     margin: -5px;
     padding: 10px;
     border:none;
