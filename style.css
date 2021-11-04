@@ -68,7 +68,7 @@ main{
     padding-top:90px;
     text-align: center;
     font-family: 'CustomFont', Visby Round CF, medium;
-    letter-spacing: 0.8px;
+    letter-spacing: ;
     
 }
 
@@ -84,7 +84,7 @@ input{
     width: 250px;
     padding: 10px;
     font-family: 'CustomFont', Visby Round CF, medium;
-    letter-spacing: 0.8px; 
+    letter-spacing: ; 
     border:none;
 
 }
@@ -98,6 +98,6 @@ button{
     background-color: #3e0ffa;
     color: white;
     font-family: 'CustomFont', Visby Round CF, medium;
-    letter-spacing: 0.8px;
+    letter-spacing: ;
     text-align: center;
 }
