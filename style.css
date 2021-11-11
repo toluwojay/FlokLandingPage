@@ -1,36 +1,71 @@
-.navbar{
-    
-    height: 65px;
-    position: relative;
-    top: 70px;
-    display: inline-block;
-   
+*{
+    box-sizing: border-box;
+    margin: 0;
+   padding: 0; 
    
 }
+    
+
+nav img{
+    height: 30px;
+    width: 30px;
+}
+
+ul{
+    
+    
+    font-family:  Airbnb Cereal App;
+    font-weight: 500;
+}
+li{
+    padding-top: 10px;
+    padding-left: 20px;
+    display: inline-block;
+    text-decoration: none;
+    align-items: center;
+    
+}
+a.twitter img{
+    padding-top:12px;
+    height: 27px;
+    width: 27px;
+    
+}
+a.insta img{
+    padding-top: 12px;
+    height: 27px;
+    width: 27px;
+   
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+   
+   
+
 
 .logo-image{
     width: 80px;
     height: 30px;
     float: left;
-    
+    padding-top: 11px;  
+    padding-right: 50%;
+      
 }
 
-.navlinks{
-    
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px
     
 
-}
+
 body {
     color: #fff;
     background: #000000;
-    background-image:url('https://res.cloudinary.com/cloudwojay/image/upload/v1636555958/Background_Image_2.0_VP8_ppypep_1_la7qgm.gif'); background-repeat:repeat; 
+    background-image:url('https://res.cloudinary.com/cloudwojay/image/upload/v1636631196/Background_Image_2.0_plxijv.gif'); background-repeat:repeat; 
     height: 100%;
+    background-position:inherit;
     margin-left: 10%;
     margin-right: 10%;
     
@@ -89,7 +124,7 @@ a{
 }
 
 input{
-    height: 30px;
+    height: 50px;
     width: 250px;
     padding: 10px;
     font-family: 'CustomFont', Visby Round CF, medium;
