@@ -11,6 +11,10 @@ nav img{
     width: 30px;
 }
 
+nav{
+	float: right;
+}
+
 ul{
     
     
